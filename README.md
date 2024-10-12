@@ -9,7 +9,7 @@ Bu bot, Discord sunucuları için kullanıcı kayıt sistemi sağlar. Üyeler, s
   <source srcset="https://skillicons.dev/icons?i=py" media="(prefers-color-scheme: dark)">
   <img src="https://skillicons.dev/icons?i=py,sqlite">
 </picture>
-**discord.py, pytz, datetime, asyncio**
+**discord.py**, pytz, datetime, asyncio**
 
 ### Özellikler
 
