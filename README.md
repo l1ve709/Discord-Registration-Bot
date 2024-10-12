@@ -3,13 +3,13 @@
 
 Bu bot, Discord sunucuları için kullanıcı kayıt sistemi sağlar. Üyeler, sunucuya katıldıklarında kayıt ekibi tarafından mülakata alınabilir ve gerekli bilgiler toplanarak sunucuda kayıt altına alınabilirler. Ayrıca, kayıt işlemiyle ilgili çeşitli loglar tutulur ve yetkililerin kayıt sayıları takip edilir.
 
-## Kullanılan Dil(ler ve Kütüphane(ler)
+## Kullanılan Dil(ler) ve Kütüphane(ler)
 
 <picture>
   <source srcset="https://skillicons.dev/icons?i=py" media="(prefers-color-scheme: dark)">
   <img src="https://skillicons.dev/icons?i=py,sqlite">
 </picture>
-discord.py, pytz, datetime, asyncio
+discord.py, pytz, datetime, asyncio, logging
 
 ### Özellikler
 
@@ -28,7 +28,7 @@ discord.py, pytz, datetime, asyncio
 
 - Python 3.8+
 - Discord.py 2.0 veya üzeri
-- `pytz`, `sqlite3`, `logging`, `asyncio` gibi kütüphaneler
+- `pytz`, `sqlite3`, `logging`, `asyncio`  kütüphaneler,i
 
 ### Kurulum Adımları
 
